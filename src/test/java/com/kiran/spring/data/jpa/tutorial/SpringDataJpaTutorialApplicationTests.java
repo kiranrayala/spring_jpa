@@ -1,4 +1,4 @@
-package com.dailycodebuffer.spring.data.jpa.tutorial;
+package com.kiran.spring.data.jpa.tutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

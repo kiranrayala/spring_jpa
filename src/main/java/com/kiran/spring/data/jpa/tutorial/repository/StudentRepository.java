@@ -1,6 +1,6 @@
-package com.dailycodebuffer.spring.data.jpa.tutorial.repository;
+package com.kiran.spring.data.jpa.tutorial.repository;
 
-import com.dailycodebuffer.spring.data.jpa.tutorial.entity.Student;
+import com.kiran.spring.data.jpa.tutorial.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

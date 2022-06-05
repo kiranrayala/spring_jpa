@@ -1,4 +1,4 @@
-package com.dailycodebuffer.spring.data.jpa.tutorial.entity;
+package com.kiran.spring.data.jpa.tutorial.entity;
 
 import lombok.*;
 

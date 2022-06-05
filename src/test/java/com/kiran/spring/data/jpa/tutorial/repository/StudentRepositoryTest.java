@@ -1,7 +1,7 @@
-package com.dailycodebuffer.spring.data.jpa.tutorial.repository;
+package com.kiran.spring.data.jpa.tutorial.repository;
 
-import com.dailycodebuffer.spring.data.jpa.tutorial.entity.Guardian;
-import com.dailycodebuffer.spring.data.jpa.tutorial.entity.Student;
+import com.kiran.spring.data.jpa.tutorial.entity.Guardian;
+import com.kiran.spring.data.jpa.tutorial.entity.Student;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
